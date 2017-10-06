@@ -28,7 +28,8 @@
     "json5.js",
     "object.js",
     "schema.js",
-    "repr.js"
+    "repr.js",
+    "Makefile"
   ],
   "repository": {
     "type": "git",
